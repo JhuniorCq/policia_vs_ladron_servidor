@@ -3,8 +3,8 @@ COLUMNS = 20
 
 UP = "w"
 DOWN = "s"
-LEFT = "d"
-RIGHT = "a"
+LEFT = "a"
+RIGHT = "d"
 
 ROLES = {
     "POLICE": "Policía",
